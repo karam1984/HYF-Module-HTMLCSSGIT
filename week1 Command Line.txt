@@ -1,0 +1,6 @@
+
+touch karam.txt 
+attrib +h karam.txt     hidde it
+mkdir -p karam/a/b/c/d    multiple nested directories
+printf "hello world" >> katam.txt 
+ append a message to a file, without a newline character
