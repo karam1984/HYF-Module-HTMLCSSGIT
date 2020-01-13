@@ -33,7 +33,7 @@ body {
   li {font-size: large;
     
   }
-  #naam {
+  header{
    margin: 0px 0px 0px 322px;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -44,7 +44,7 @@ body {
   color:#C0C0C0;}
   h2{background-color:#20B2AA;
   color: #B22222}
-  #first{
+  .first{
      font-size: 55px;
     color:  #800000;;
     font-style: italic;
