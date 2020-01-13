@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 touch karam.txt 
 attrib +h karam.txt     hidde it
 mkdir -p karam/a/b/c/d    multiple nested directories
 echo "hello world" >> karam.txt 
  append a message to a file, without a newline character
+=======
+
